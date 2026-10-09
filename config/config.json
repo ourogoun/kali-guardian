@@ -1,0 +1,8 @@
+{
+  "interface": "eth0",
+  "alert_thresholds": {
+    "icmp_rate": 50,
+    "port_scan_ports": 20
+  },
+  "dashboard_refresh": 2
+}
